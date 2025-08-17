@@ -1,6 +1,7 @@
 {
   "name": "magic-patterns-vite-template",
   "version": "0.0.1",
+  "homepage": "https://akhileshshahare.github.io/Study-Tracker-with-Spaced-Repetition-and-Analytics",
   "private": true,
   "type": "module",
   "scripts": {
